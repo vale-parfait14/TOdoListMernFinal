@@ -1,0 +1,49 @@
+
+.titre01{
+   
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+.form1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+
+}
+.ipt-todolist{
+    width: 500px;
+margin-right: 10px; 
+   height: 50px;
+    border: navajowhite;
+    font-size: large;
+    border-radius: 10px;
+}
+.btn-todolist{
+    height: 50px;
+    border: navajowhite;
+    border-radius: 10px;
+}
+.btn-todolist:hover{
+    background-color: rgb(72, 162, 223);
+    color: white;
+}
+
+.btn2-todolist{
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+
+}
+
+
+.btn2-todolist:hover{
+    background-color: rgb(23, 82, 62);
+    color: aliceblue;
+    
+    
+}
